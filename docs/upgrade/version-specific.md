@@ -6,6 +6,11 @@ Here you will find special steps needed when your upgrade crosses certain CiviCR
 
 For example, if you are upgrading from CiviCRM 4.1 to CiviCRM 4.3, then you should check this page for *both* "CiviCRM 4.2" and "CiviCRM 4.3" since your upgrade "crosses" both of those versions.
 
+## CiviCRM 5.31
+
+Button html has changed - which could affect customisation - see https://civicrm.org/blog/eileen/prepare-civicrm-531-now-changes-could-affect-customisations
+
+
 ## CiviCRM 5.29
 
 ### WordPress and `[civicrm.files]`
